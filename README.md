@@ -25,7 +25,7 @@ Make a Pull Request for your changes and wait to be merged.
 
 2. Clone your fork down to your local environment
 ```markdown
-git clone https://github.com/your-username/Hacktoberfest-Beginner.git
+git clone https://github.com/your-username/hacktoberfest-beginner.git
 ```
 
 3. Create a branch
