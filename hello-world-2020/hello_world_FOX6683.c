@@ -1,3 +1,7 @@
+// AUTHOR: FOX6683
+// LANGUAGE: C
+// GITHUB: https://github.com/FOX6683
+
 #include <stdio.h>
 #include <sdtlib.h>
 
