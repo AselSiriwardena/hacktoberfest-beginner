@@ -1,0 +1,5 @@
+main :: IO()
+main = do
+  let hello = "Hello World"
+  let from = "from Brazil"
+  print (hello ++ from )
