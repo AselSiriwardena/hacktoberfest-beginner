@@ -1,3 +1,3 @@
 const hello = () => "Hello World!";
 
-hello();
+alert(hello())

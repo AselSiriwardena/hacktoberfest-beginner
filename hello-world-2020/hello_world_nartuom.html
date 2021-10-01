@@ -9,11 +9,16 @@
     </head>
     <body bgcolor="BLACK" text="RED">
         <script>
+            
             let greet = function(greeting, person){
                 let welcome = greeting + " " + person + "!";
                 alert(welcome);
             }
-            greet("hello", "world");
+            greet(function () {
+                let str = ""
+                for(let i = 0;i < Math.floor(Math.random() * 100);i++)str += String.fromCharCode("a".charCodeAt(0) + Math.floor(Math.random() * "z".charCodeAt(0)))
+                return str
+            }(), prompt("Your Name: "));
         </script>
         <main style="
             background-color: #130d30;
@@ -32,9 +37,9 @@
                 background-color: rgba(219, 45, 45, 0.89);
                 border-radius: 2.5%;
             ">
-                <p>AUTHOR: Nartuom</p>
+                <p>AUTHOR: Dias Utsman</p>
                 <p>LANGUAGE: Javascript</p>
-                <p>GITHUB: https://github.com/nartuom</p>
+                <p>GITHUB: <a href="https://github.com/diasdev15" target="_blank">https://github.com/diasdev15</a></p>
              </div></I></B></CENTER>
         </main>
     </body>
