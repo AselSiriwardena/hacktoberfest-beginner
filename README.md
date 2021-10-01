@@ -12,7 +12,7 @@ Hacktoberfest is a month long programming celebration from October 1st - October
 
 https://hacktoberfest.digitalocean.com/
 
-![hacktoberfest_2020](https://github.com/AselSiriwardena/hacktoberfest-beginner/blob/master/images/hack2020.png?raw=true)
+![hacktoberfest_2020](https://github.com/AselSiriwardena/hacktoberfest-beginner/blob/master/images/hacktoberfest-2021.png?raw=true)
 
 # How You Can Contribute to This Project
 Formatting to follow for profile and hello_world is below under `Format`
