@@ -1,4 +1,4 @@
-// AUTHOR: Matthew
+// AUTHOR: Matthew Breaux
 // LANGUAGE: JavaScript
 // GITHUB: https://github.com/Matt-bql
 
