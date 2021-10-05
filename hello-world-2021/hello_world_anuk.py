@@ -3,4 +3,8 @@
 # GITHUB: https://github.com/anukindipa
 # Thank You for having me. This is the first pull request i made toa repo which isn't mine
 
-print("Hello World!")
+def main():
+    print("Hello World!")
+
+if __name__=='__main__':
+    main()
